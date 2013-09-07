@@ -31,7 +31,7 @@
   				<input type="button" value="Sök">
   			</div>
   			<h3>Hej!</h3>
-  			<p>Ett klick för att få fram lägg till</p>
+  			<p>Ändra lite hära</p>
   			<p>Ett klick för att få fram sök</p>
   			<p>Lägga till plats, Ett namn, flera taggar, beskrivning(info)</p>
   			<p>Lägga till egna taggar, använda befintliga</p>
