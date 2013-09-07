@@ -17,6 +17,7 @@
 		$(document).ready(function()
 			{
 			var variabel1="jag är en variabel";
+			//En kommentar här
 			});
 		</script>
 	</head>
