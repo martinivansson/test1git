@@ -16,6 +16,7 @@
 		<script type="text/javascript">
 		$(document).ready(function()
 			{
+			var variabel1="jag är en variabel";
 			});
 		</script>
 	</head>
